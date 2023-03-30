@@ -1,9 +1,12 @@
 
+
 # Yandex Music Parser
 
 Парсер чарта (топ-100) лучших песен сайта: ЯндексМузыка
 
+## Youtube (как это работает)
 
+https://youtu.be/o0IonsE7gwk
 
 ## Установка
 
